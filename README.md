@@ -188,4 +188,8 @@ Goal:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=700&lines=Thanks+for+visiting+my+profile!;Always+Learning+Something+New;Building+Projects+Every+Day;Let's+Create+Something+Amazing!" />
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/kishan9302/kishan9302/output/github-contribution-grid-snake-dark.svg)
+
 </div>
